@@ -35,7 +35,7 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 7.	Keep the mode switch of Gunn power supply to square wave/internal Modulation.
 8.	Turn the meter knob to voltage position and note that, as Gunn bias voltage is varied currentstarts decreasing. This indicates negative resistance characteristic of Gunn diode. Apply the voltage such that the device is in the middle of the negative resistance region.
 9.	Connect detector output to SWR meter.
-10.	Adjust the square wave modulation frequency to approximately 1KHz.
+10.	Adjust the square wave modulation frequency to approximately 1KHz..
 11.	Change the meter range if no deflection is observed.
 12.	Keep the slotted line probe at position where maximum deflection in meter is observed.
 13.	Adjust the attenuator setting, gain control knob on VSWR meter and tune the detectorplunger for pointer to indicate VSWR 1.
